@@ -1,6 +1,3 @@
-# Infosec In A Nutshell
-<p align="center">  
-<img src="https://therussianblog.files.wordpress.com/2012/11/nutshell_icon.png" width="228" height="182" />
+![nutshell](https://user-images.githubusercontent.com/37185061/175793926-cd12326f-7483-421e-8e46-6486a69555ae.png)
   
-Conceitos sobre Segurança da Informação de uma forma descomplicada. 
-</p>
+## Conceitos sobre Segurança da Informação de uma forma descomplicada. 
