@@ -26,3 +26,18 @@ São responsáveis pelas medidas de proteção da organização em que atuam, ca
 
 Esse é o pessoal responsável por criar sistemas, softwares, análises de arquitetura de forma que o produto gerado seja eficiente e seguro. Geralmente esse time é composto por Engenheiros de Software, de Arquitetura, e voltados para Aplicações. 
 
+### Purple Team 
+
+TBD
+
+### Green Team 
+
+TBD
+
+### Orange Team 
+
+TBD
+
+### White Team 
+
+TBD
